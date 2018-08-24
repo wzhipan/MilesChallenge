@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Miles Challenge</string>
+    <string name="city_name_boston">Boston</string>
+    <string name="city_name_new_york">New York</string>
+    <string name="city_name_san_francisco">San Francisco</string>
+    <string name="city_name_washington">Washington</string>
+    <string name="city_image_description">image of a city</string>
+    <string name="location">La Crescenta-Montrose, CA 91020</string>
+    <string name="item_number">NO. 7911847</string>
+    <string name="current_page">%1$d/%2$d</string>
+    <string name="profile_name_1">Amada Lin</string>
+    <string name="profile_name_2">Peter Alan</string>
+    <string name="default_comment">The federal beach atc requires states that receive funding to
+        develop a risk-based beach evaluation and classification plan and apply it to</string>
+</resources>
